@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-count-total-character/static/css/main.fc5c2c69.css",
+    "main.js": "/simple-count-total-character/static/js/main.80ba8d4b.js",
+    "index.html": "/simple-count-total-character/index.html",
+    "main.fc5c2c69.css.map": "/simple-count-total-character/static/css/main.fc5c2c69.css.map",
+    "main.80ba8d4b.js.map": "/simple-count-total-character/static/js/main.80ba8d4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.80ba8d4b.js"
+  ]
+}
